@@ -1,0 +1,3 @@
+rbx-to-lua
+*.o
+out/
